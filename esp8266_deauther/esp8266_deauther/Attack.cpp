@@ -474,5 +474,3 @@ void Attack::refreshLed() {
   }
 }
 
-
-

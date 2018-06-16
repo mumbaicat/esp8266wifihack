@@ -93,8 +93,8 @@ void Settings::load() {
 void Settings::reset() {
   if (debug) Serial.print("reset settings...");
 
-  ssid = "wifiattack-1"; // "MZY7 WIFI MT1"
-  password = "1272294450"; //must have at least 8 characters mzy7tech
+  ssid = "MZY7 WIFI MT1";
+  password = "mzy7tech"; //must have at least 8 characters
   ssidHidden = false;
   apChannel = 9;
 
@@ -245,5 +245,3 @@ void Settings::send() {
   if (debug) Serial.println("\ndone");
 
 }
-
-

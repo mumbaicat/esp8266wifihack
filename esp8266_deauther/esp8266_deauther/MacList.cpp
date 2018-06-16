@@ -61,5 +61,3 @@ void MacList::set(int num, Mac adr) {
   macAdrs[num].set(adr);
 }
 
-
-

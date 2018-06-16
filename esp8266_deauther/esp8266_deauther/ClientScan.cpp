@@ -235,5 +235,3 @@ void ClientScan::send() {
   if(debug) Serial.println("\ndone");
 
 }
-
-

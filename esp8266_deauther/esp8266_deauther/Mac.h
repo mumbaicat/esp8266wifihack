@@ -26,5 +26,3 @@ class Mac
 };
 
 #endif
-
-

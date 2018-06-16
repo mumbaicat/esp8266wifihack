@@ -57,5 +57,3 @@ class APScan {
 };
 
 #endif
-
-

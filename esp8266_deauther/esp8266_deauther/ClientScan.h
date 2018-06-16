@@ -69,5 +69,3 @@ class ClientScan {
 };
 
 #endif
-
-

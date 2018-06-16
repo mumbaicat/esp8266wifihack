@@ -89,5 +89,3 @@ class Settings
 };
 
 #endif
-
-

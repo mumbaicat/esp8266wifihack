@@ -700,5 +700,3 @@ void loop() {
 #endif
 
 }
-
-

@@ -106,5 +106,3 @@ void SSIDList::_random() {
 
 
 
-
-

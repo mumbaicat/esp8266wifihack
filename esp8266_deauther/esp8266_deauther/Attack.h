@@ -156,5 +156,3 @@ class Attack
 };
 
 #endif
-
-
